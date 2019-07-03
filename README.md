@@ -14,11 +14,3 @@
     <br />
   </p>
 </p>
-
-# Authenticator Identity Service  
-
-Authenticator Identity Service is a part of Bank (Service Provider) System that implements Strong Customer Authentication/Dynamic Linking process.  
-The purpose of Identity Service is to add necessary functionality in order to implement SCA/DL.  
-
-It contains an API, that processes received from Bank's Authentication Service information 
-and appeals to the Authenticator app in order to get either action confirmation or denial from the customer.
