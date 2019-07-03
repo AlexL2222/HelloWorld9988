@@ -1,5 +1,5 @@
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
-
+<a href="https://twitter.com/saltedge?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-lang="en" data-dnt="true" data-show-count="false">Follow @saltedge</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br />
 <p align="center">
